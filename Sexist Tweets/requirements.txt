@@ -5,7 +5,7 @@ cffi==1.12.1
 cycler==0.10.0
 et-xmlfile==1.0.1
 fasttext==0.8.3
-future==0.17.1
+future==0.18.3
 gast==0.2.2
 grpcio==1.19.0
 h5py==2.9.0
